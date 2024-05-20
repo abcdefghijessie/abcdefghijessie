@@ -1,5 +1,7 @@
 # Hello, World! 
 
+Welcome to my profile! I am Jessie, an enthusiastic coder from the USA 🇺🇸.
+
 ## My GitHub Stats:
 
 <p align="center">
